@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
+}
   
   body, html {
     font-family: 'Roboto', sans-serif;
@@ -14,10 +14,11 @@
     width: 100%;
   }
   
+  
   .login-form-title {
     display: block;
     font-size: 30px;
-    color: azure;
+    color: rgb(240, 255, 249);
     line-height: 1.2;
     text-align: center;
   }

@@ -10,10 +10,11 @@ export const Login = () => {
   return (
     <LayoutComponents>
       <form className="login-form">
-        <span className="login-form-title"> Bem vindo </span>
-
+        <span className="login-form-title"> Bem vindo</span>
+        
+        
         <span className="login-form-title">
-          <img src={jpIMG} alt="Jovem Programador" />
+          <img src={jpIMG} alt="Los Santos Custom" />
         </span>
 
         <div className="wrap-input">
